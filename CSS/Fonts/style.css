@@ -26,3 +26,21 @@ p::first-line {
 header::first-line {
     font-style: bolder;
 }
+a:link {
+    font-size:35px;
+}
+a:visited {
+    color:blue;
+}
+a:hover {
+    color:red;
+}
+a:active {
+    color:yellow;
+}
+#p3:hover {
+    color: purple;
+}
+#links {
+    font-size:35px;
+}
