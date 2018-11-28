@@ -13,3 +13,16 @@
     letter-spacing: 2px;
     color: blue;
 }
+#p2 {
+    font-family:'Raleway', sans-serif;
+    font-size:30px;
+    font-weight:15px;
+    line-height: 45px;
+    letter-spacing:2px;
+}
+p::first-line {
+    font-style: italic;
+}
+header::first-line {
+    font-style: bolder;
+}
