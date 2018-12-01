@@ -29,14 +29,12 @@ header::first-line {
 a:link {
     font-size:35px;
 }
-a:visited {
-    color:blue;
-}
 a:hover {
     color:red;
 }
 a:active {
     color:yellow;
+a:
 }
 #p3:hover {
     color: purple;
